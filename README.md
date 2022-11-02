@@ -16,11 +16,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/illwiv/checklist)
+- [Test-Suites and Test-Cases](https://github.com/illwiv/test-cases)
+- [Bug-Reports](https://github.com/illwiv/bug-reports)
+- [SQL Queries](https://github.com/illwiv/SQL)
+- [Postman Collections](https://github.com/illwiv/postman)
 
 ### Follow Me
 
