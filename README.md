@@ -1,4 +1,4 @@
-![Header](https://github.com/illwiv/illwiv/blob/main/assets/92d709d1dba3dd269186a47c907a824e.jpg)
+![Header](https://github.com/illwiv/illwiv/blob/main/assets/team-lead-header%402x.png)
 ## I'm a beginner QA Engineer. 
 
 
