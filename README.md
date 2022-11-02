@@ -18,7 +18,7 @@
 
 - [Checklists](https://github.com/illwiv/checklist)
 - [Test-Suites and Test-Cases](https://github.com/illwiv/test-case)
-- [Bug-Reports](hhttps://github.com/illwiv/bug-reports)
+- [Bug-Reports](https://github.com/illwiv/bug-reports)
 - [SQL Queries](https://github.com/illwiv/SQL)
 - [Postman Collections](https://github.com/illwiv/postman)
 
